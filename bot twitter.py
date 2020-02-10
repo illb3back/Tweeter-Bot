@@ -6,10 +6,10 @@ import oauth2
 import json
 import pprint
 import urllib.parse
-Access_token='1226489627365773312-raLqVaxQqAYRftR3aqPXk1Molu3I84'
-Access_token_secret='uUhT7VmjfWh89Yeas02qz6FFDvLsFFAbUJltEiEyS2Vny'
-API_key='J85066dMzaAumCW9Vcg5zRkHh'
-API_secret_key='PhrAl7GuRl1XpYYfQFU84W61jh5951vKW7oBrXFRNZHHMLEkOu'
+Access_token=''
+Access_token_secret=''
+API_key=''
+API_secret_key=''
 
 
 while True:
